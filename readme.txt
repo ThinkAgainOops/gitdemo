@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and so easy.
 Creating a new branch is quick by hx_dev.
+Git merge test by master.
